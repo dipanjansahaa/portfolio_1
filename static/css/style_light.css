@@ -1,0 +1,13 @@
+/* Global styles for light mode */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Add your light mode styles for other elements here */
+

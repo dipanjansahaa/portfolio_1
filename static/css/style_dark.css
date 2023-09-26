@@ -1,0 +1,13 @@
+/* Global styles for dark mode */
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+header {
+    background-color: #444;
+    color: #fff;
+}
+
+/* Add your dark mode styles for other elements here */
+
